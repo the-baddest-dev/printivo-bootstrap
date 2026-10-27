@@ -1,0 +1,8 @@
+@media screen and (max-width: 480px) {
+  .nav-container {
+    /* border: 1px solid #f7f6f4; */
+    background-color: #f7f6f4;
+    padding: 0px;
+  }
+
+}

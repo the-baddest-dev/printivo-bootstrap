@@ -1,0 +1,58 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+img{
+  max-width: 100%;
+}
+
+.section-width{
+  width: 1550px;
+  margin: 0 auto;
+}
+
+.nav-container{
+  /* border: 1px solid #f7f6f4; */
+  background-color: #f7f6f4;
+  padding: 15px 120px;
+}
+
+.nav-child:nth-child(1) a{
+  color: #506683;
+  font-size: 12.9px;
+  font-weight: 600;
+}
+
+.text span:nth-child(1){
+  color: #506683;
+  font-size: 12.9px;
+  font-weight: 600;
+}
+
+.text a{
+  color: #1da1f2;
+  font-size: 12.9px;
+  font-weight: 600;
+}
+
+.text span:nth-child(3){
+  color: #506683;
+  font-size: 12.9px;
+  font-weight: 600;
+}
+
+.nigeria,
+.uk{
+  border: 1px solid #cbcac8;
+  padding: 0 12px;
+}
+
+.nigeria a,
+.uk a{
+  color: #506683;
+  font-size: 12.9px;
+  font-weight: 600;
+}
+
